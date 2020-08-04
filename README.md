@@ -1,6 +1,6 @@
-### Hello there 👋
+### Hello there, here's Igor Vicente 👋
 
-### :dart: I'm Igor Vicente, just a guy currently studying System Analysis and Development in Brazil. I started in this world quite recently but I'm very curious and eager to learn, what drove me to pursue this career is the possibility to solve problems and create new things with technology.
+### :dart: I'm just a guy currently studying System Analysis and Development in Brazil. I started in this world quite recently but I'm very curious and eager to learn, what drove me to pursue this career is the possibility to solve problems and create new things with technology.
 
 ### :computer: I know the basics of HTML, CSS, JavaScript, Python and SQL and I'm looking forward to further develop my skill on these, based mainly in what cool and interesting projects I get the opportunity to work on.
 
