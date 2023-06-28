@@ -1,5 +1,5 @@
 ### :wave:Hello there, here's Igor Vicente<br><br>
-#### :dart: Need to update this .<br>
+#### :dart: Need to update this.<br>
 #### :computer: Need to update this.<br>
 #### :books: In my spare time I love to read, watch movies and tv shows, play tabletop rpg and pc games.<br>
 #### Contact me:
